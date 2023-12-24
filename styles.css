@@ -1,0 +1,43 @@
+
+.main-container{
+    background-color: hsl(47, 88%, 63%);
+    height: 550px;
+    display: flex;
+    align-items: center;
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+.ill-img{
+    width: 300px;
+}
+.Learning{
+    background-color: hsl(47, 88%, 63%);
+    width: fit-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 4px;
+    border-radius: 5px;
+}
+.greg{
+    width: 40px;
+}
+.Hooper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    gap: 10px;
+}
+p1 {
+font-weight: bold;
+font-size: small;
+}
